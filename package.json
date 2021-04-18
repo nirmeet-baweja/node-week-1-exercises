@@ -1,0 +1,19 @@
+{
+  "name": "week-1-exercises",
+  "version": "1.0.0",
+  "description": "Working on exercises for the Node Module at CYF.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "nirmeet-baweja",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
